@@ -101,3 +101,57 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+
+## 📝 Sobre a Implementação
+Projeto desenvolvido como parte do **Desafio Node.js** da Digital Innovation One (DIO). 
+Uma implementação em JavaScript de um sistema de corrida baseado no jogo Mario Kart, 
+seguindo todos os requisitos propostos no desafio original.
+
+## 🚀 Stack Utilizada
+- Node.js v18.x
+- JavaScript (ES6+)
+- Git/GitHub
+
+## 🎮 Como Executar
+```bash
+# Clonar o repositório
+git clone https://github.com/mrfernandodias/mario-kart
+
+# Entrar na pasta
+cd mario-kart
+
+# Executar o projeto
+node src/index.js
+```
+
+## ✅ Requisitos Implementados
+- [x] Sistema de dois jogadores com objetos
+- [x] Corrida em 5 rodadas
+- [x] Blocos aleatórios (RETA, CURVA, CONFRONTO)
+- [x] Sistema de pontuação
+- [x] Proteção contra pontuação negativa
+- [x] Condição de vitória
+
+## 🌟 Melhorias Adicionadas
+- Feedback visual com emojis
+- Mensagens detalhadas durante a corrida
+- Sistema de placar em tempo real
+- Tratamento de casos especiais (empates)
+
+## 🔗 Links Úteis
+- [Projeto Original](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart)
+- [Digital Innovation One](https://www.dio.me/)
+
+## 👨‍💻 Autor
+Fernando Dias
+- GitHub: [@mrfernandodias](https://github.com/mrfernandodias)
+- LinkedIn: [eufernandodias](https://linkedin.com/in/eufernandodias)
+
+## 📜 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🙏 Agradecimentos
+- Digital Innovation One (DIO)
+- [Felipe] pelo desafio e orientação
+- Comunidade DIO pelos insights e suporte
